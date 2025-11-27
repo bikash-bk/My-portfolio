@@ -23,7 +23,7 @@ import novem from './assets/company_logo/novem.png';
 import amdox from './assets/company_logo/amdox.png';
 import food_delivery from './assets/work_logo/foodDelivery.png'
 import ai_interview from './assets/work_logo/aiInterview.png'
-import documeindAi from './assets/work_logo/documindAi.png'
+import documeindAi from './assets/work_logo/documindAI.png'
 import employeeManagement from './assets/work_logo/emplyeeManagement.png'
 import saasNotes from './assets/work_logo/saasNotes.png'
 import kcet from './assets/education_logo/kcet.png'
