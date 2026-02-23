@@ -46,7 +46,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Bikash</span>
+          <span className="text-yellow-300">Bikash</span>
           <span className="text-[#8245ec]">/</span>
           <span className="text-white">Kumar</span>
           <span className="text-[#8245ec]">&gt;</span>
