@@ -35,7 +35,7 @@ const About = () => {
               typingDelay={500}
               eraseDelay={2000}
               cursorRenderer={(cursor) => (
-                <span className="text-[#8245ec]">{cursor}</span>
+                <span className="text-yellow">{cursor}</span>
               )}
             />
           </h3>
