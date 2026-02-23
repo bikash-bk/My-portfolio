@@ -1,7 +1,7 @@
 // src/components/Skills/Skills.jsx
 import React from "react";
 import { SkillsInfo } from "../../constants";
-import Tilt from "react-parallax-tilt";
+
 
 const Skills = () => (
   <section
@@ -30,15 +30,7 @@ const Skills = () => (
           </h3>
 
           {/* Skill Items - 3 per row on larger screens */}
-          <Tilt
-            key={category.title}
-            tiltMaxAngleX={20}
-            tiltMaxAngleY={20}
-            perspective={1000}
-            scale={1.05}
-            transitionSpeed={1000}
-            gyroscope={true}
-          >
+         
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 w-full">
               {category.skills.map((skill) => (
                 <div
@@ -56,7 +48,7 @@ const Skills = () => (
                 </div>
               ))}
             </div>
-          </Tilt>
+         
         </div>
       ))}
     </div>
