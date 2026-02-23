@@ -34,6 +34,7 @@ const About = () => {
               eraseSpeed={50}
               typingDelay={500}
               eraseDelay={2000}
+              style={{color:"yellow"}}
               cursorRenderer={(cursor) => (
                 <span className="text-yellow-300">{cursor}</span>
               )}
