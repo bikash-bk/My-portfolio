@@ -60,8 +60,8 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-      { name: 'Bootstrap', logo: bootstrapLogo },
-      { name: 'Bootstrap', logo: bootstrapLogo },
+      { name: 'Bootstrap', logo: bootstrapLogo }
+     
 
       
     ],
